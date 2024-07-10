@@ -60,7 +60,7 @@ cssselect2==0.7.0
     # via weasyprint
 dateparser==1.2.0
     # via -r requirements.txt
-django==4.2.13
+django==4.2.14
     # via
     #   -r requirements.txt
     #   django-ckeditor
